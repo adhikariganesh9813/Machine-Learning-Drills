@@ -1,4 +1,4 @@
-# Linear Regression from Scratch
+# Machine Learning Practice
 
 A from-scratch implementation of a simple linear regression algorithm predicting house prices using a custom square trick.
 
