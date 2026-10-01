@@ -1,9 +1,0 @@
-{
-    "python.defaultInterpreterPath": "/usr/bin/python3",
-    "python.terminal.executeInFileDir": true,
-    "python.linting.enabled": false,
-    "terminal.integrated.shellIntegration.enabled": false,
-    "python.terminal.launchArgs": [],
-    "terminal.integrated.enablePersistentSessions": false,
-    "python.experiments.enabled": false
-}
